@@ -1,0 +1,15 @@
+C:\Users\Eviny\Documents\KSU Classes\Concepts of Programming Languages\Scanner Project\Solution Folder\Scanner\bin\Debug\net6.0\Scanner.exe
+C:\Users\Eviny\Documents\KSU Classes\Concepts of Programming Languages\Scanner Project\Solution Folder\Scanner\bin\Debug\net6.0\Scanner.deps.json
+C:\Users\Eviny\Documents\KSU Classes\Concepts of Programming Languages\Scanner Project\Solution Folder\Scanner\bin\Debug\net6.0\Scanner.runtimeconfig.json
+C:\Users\Eviny\Documents\KSU Classes\Concepts of Programming Languages\Scanner Project\Solution Folder\Scanner\bin\Debug\net6.0\Scanner.dll
+C:\Users\Eviny\Documents\KSU Classes\Concepts of Programming Languages\Scanner Project\Solution Folder\Scanner\bin\Debug\net6.0\Scanner.pdb
+C:\Users\Eviny\Documents\KSU Classes\Concepts of Programming Languages\Scanner Project\Solution Folder\Scanner\obj\Debug\net6.0\Scanner.csproj.AssemblyReference.cache
+C:\Users\Eviny\Documents\KSU Classes\Concepts of Programming Languages\Scanner Project\Solution Folder\Scanner\obj\Debug\net6.0\Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eviny\Documents\KSU Classes\Concepts of Programming Languages\Scanner Project\Solution Folder\Scanner\obj\Debug\net6.0\Scanner.AssemblyInfoInputs.cache
+C:\Users\Eviny\Documents\KSU Classes\Concepts of Programming Languages\Scanner Project\Solution Folder\Scanner\obj\Debug\net6.0\Scanner.AssemblyInfo.cs
+C:\Users\Eviny\Documents\KSU Classes\Concepts of Programming Languages\Scanner Project\Solution Folder\Scanner\obj\Debug\net6.0\Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Eviny\Documents\KSU Classes\Concepts of Programming Languages\Scanner Project\Solution Folder\Scanner\obj\Debug\net6.0\Scanner.dll
+C:\Users\Eviny\Documents\KSU Classes\Concepts of Programming Languages\Scanner Project\Solution Folder\Scanner\obj\Debug\net6.0\refint\Scanner.dll
+C:\Users\Eviny\Documents\KSU Classes\Concepts of Programming Languages\Scanner Project\Solution Folder\Scanner\obj\Debug\net6.0\Scanner.pdb
+C:\Users\Eviny\Documents\KSU Classes\Concepts of Programming Languages\Scanner Project\Solution Folder\Scanner\obj\Debug\net6.0\Scanner.genruntimeconfig.cache
+C:\Users\Eviny\Documents\KSU Classes\Concepts of Programming Languages\Scanner Project\Solution Folder\Scanner\obj\Debug\net6.0\ref\Scanner.dll
