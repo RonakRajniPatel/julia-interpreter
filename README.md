@@ -1,6 +1,6 @@
 # julia-interpreter
 
-This was an assignemnt for my Concepts of Programming Languages class. 
+This was an assignment for my Concepts of Programming Languages class. 
 
 It was split into three sprints which were the scanner, parser, and interpreter. 
 
